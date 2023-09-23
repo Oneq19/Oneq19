@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatema Oneq</h1>
+<h1 align="center">I'm Fatema Oneq 👋</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer</h3>
 
 
